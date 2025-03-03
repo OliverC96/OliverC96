@@ -1,5 +1,3 @@
-<img src="https://wallpapercave.com/wp/wp12973964.jpg" height=400 >
-
 ## Oliver Clennan - Aspiring Software Developer
 
 A diligent, and hard-working Computer Science graduate with a passion for frontend and full-stack software development. Seeking an entry-level position where I can collaborate with others, explore new technologies, and employ my skills to have a tangible impact.
