@@ -1,4 +1,4 @@
-## Hey, I'm Oliver!
+## Hey, I'm Oliver 👋
 
 I am a diligent, and hard-working Computer Science graduate with a passion for frontend and full-stack software development. 
 
