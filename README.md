@@ -4,6 +4,8 @@ A diligent, and hard-working Computer Science graduate with a passion for fronte
 
 ## My Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,nodejs,express,ts,python,mongo,postman,docker,kubernetes,github,npm,redis,jest,webstorm)](https://skillicons.dev)
+
 <div >
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
