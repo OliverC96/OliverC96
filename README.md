@@ -2,8 +2,6 @@
 
 I am a diligent, and hard-working Computer Science graduate with a passion for frontend and full-stack software development. 
 
-I'm attentive, driven, and eager to grow as a developer. I am always open to new ideas and approaches, and love learning about new technologies and their applications.
-
 I'm currently seeking an entry-level position where I can collaborate with others, explore new technologies, and employ my skills to have a tangible impact.
 
 ## My Tech Stack
