@@ -2,7 +2,7 @@
 
 - I am a recent Computer Science graduate from the University of Western Ontario
 - I am interested in frontend and full-stack software development (particularly, web development)
-- I am currently seeking an entry-level position where I can collaborate with others, explore new technologies, and employ my skills to have a tangible impact.
+- I am currently seeking an entry-level position where I can collaborate with others, explore new technologies, and employ my skills to have a tangible impact
 
 ## My Tech Stack
 
