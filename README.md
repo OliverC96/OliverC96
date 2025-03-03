@@ -4,4 +4,8 @@ A diligent, and hard-working Computer Science graduate with a passion for fronte
 
 ## My Tech Stack
 
-![Skills](https://skills-icons.vercel.app/api/icons?i=nextjs,tailwind,nodejs,express,ts,python,mongo,postman,docker,kubernetes,digitalocean,github,npm,redis,jest,playwright,stripe,resend,posthog,webstorm)
+![Skills](https://skills-icons.vercel.app/api/icons?i=nextjs,tailwind,nodejs,express,ts,python,mongo,postman,docker,kubernetes,digitalocean,netlify,github,npm,redis,jest,playwright,stripe,resend,posthog,webstorm)
+
+## On My Radar
+
+![I want to learn](https://skills-icons.vercel.app/api/icons?i=go,ruby,redux,graphql,reactnative,threejs,framer)
